@@ -81,3 +81,7 @@ Thumbs.db
 # ==============================
 *.pid
 *.sock
+
+# Custom 
+
+test.py 
